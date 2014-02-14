@@ -1,0 +1,903 @@
+[Tue Feb 11 2014 11:13:04 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:13:23 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:13:37 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:13:44 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:13:57 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:14:00 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:14:14 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:14:16 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:14:27 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:15:28 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:15:55 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:16:53 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:17:31 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:18:07 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:19:14 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:19:54 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:20:18 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:20:24 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:20:25 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:06 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:10 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:11 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:11 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:12 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:12 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:21:30 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:22:01 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:22:46 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:35 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:37 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:37 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:38 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:38 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:38 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:38 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:38 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:39 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:39 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:40 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:40 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:41 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:42 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
+[Tue Feb 11 2014 11:23:42 GMT+0800 (中国标准时间)] /
+TypeError: d:\nodeworks\eblog\views\index.ejs:13
+    11|     <% } %>
+    12|     <% }) %>
+ >> 13|     <% if (post.reprint_info.reprint_from) { %>
+    14|     <br><a href="/u/<%= post.reprint_info.reprint_from.name %>/<%= post.reprint_info.reprint_from.day %>/<%= post.reprint_info.reprint_from.title %>">原文链接</a>
+    15|     <% } %>
+    16| </p>
+
+Cannot read property 'reprint_from' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:1057)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:35:35)
+    at d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:250:15
+    at Object.exports.render (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (d:\nodeworks\eblog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (d:\nodeworks\eblog\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\nodeworks\eblog\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\nodeworks\eblog\node_modules\express\lib\response.js:798:7)
